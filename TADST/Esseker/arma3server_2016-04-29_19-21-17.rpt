@@ -2994,3 +2994,17 @@ Warning: Cleanup player - person 2:719 not found
 "ExileServer - Spawning ExileServer_system_event_supplyBox_start..."
 "ExileServer - Spawning ExileServer_system_event_supplyBox_start..."
 "ExileServer - Spawning ExileServer_system_event_supplyBox_start..."
+"ExileServer - Spawning ExileServer_system_event_abandonedSafe_start..."
+"ExileServer - There are no abandoned safes. Skipping abandoned safe event."
+"ExileServer - Spawning ExileServer_system_event_supplyBox_start..."
+"ExileServer - Spawning ExileServer_system_event_supplyBox_start..."
+"ExileServer - Spawning ExileServer_system_event_supplyBox_start..."
+Deinitialized shape [Class: "C_man_polo_3_F"; Shape: "a3\characters_f\civil\c_poloshirt.p3d";]
+Deinitialized shape [Class: "Underwear_F"; Shape: "a3\characters_f\common\basicbody.p3d";]
+Deinitialized shape [Class: "Exile_Unit_GhostPlayer"; Shape: "a3\characters_f\common\invisibleman.p3d";]
+Deinitialized shape [Class: "Exile_Unit_Player"; Shape: "a3\characters_f\common\coveralls.p3d";]
+Deinitialized shape [Class: "B_Helipilot_F"; Shape: "a3\characters_f\common\coveralls.p3d";]
+c:\w\stable\futura\lib\network\networkserver.cpp ClearNetServer:NOT IMPLEMENTED - briefing!
+Extensions:
+  extDB2 (C:\Servers\Arma 3 Exile Server\@ExileServer\extDB2.dll) [70.0.0.0] [70.0.0.0]
+

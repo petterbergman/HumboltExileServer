@@ -17,3 +17,4 @@ extDB2: Detected 8 Cores, Setting up 6 Worker Threads
 [19:21:46:516367 --7:00] [Thread 13364] extDB2: Database Session Pool Started
 [19:21:46:517795 --7:00] [Thread 13364] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\Servers\Arma 3 Exile Server\@ExileServer\extDB\sql_custom_v2\exile.ini
 [19:21:46:517916 --7:00] [Thread 13364] extDB2: SQL_CUSTOM_V2: Version 12 Detected, Latest Version 12 Available
+[10:28:39:015685 --7:00] [Thread 13364] extDB2: Stopping ...

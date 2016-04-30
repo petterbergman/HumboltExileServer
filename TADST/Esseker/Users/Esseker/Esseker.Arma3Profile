@@ -29,12 +29,11 @@ class Difficulties
 			ExtendetInfoType=1;
 			Tracers=1;
 		};
-		skillFriendly=0.65;
+		skillFriendly=0.64999998;
 		precisionFriendly=0.37;
-		skillEnemy=0.40;
-		precisionEnemy=0.10;
+		skillEnemy=0.40000001;
+		precisionEnemy=0.1;
 	};
-
 	class Regular
 	{
 		class Flags
@@ -65,11 +64,10 @@ class Difficulties
 			MineTag=1;
 		};
 		skillFriendly=0.75;
-		precisionFriendly=0.55;
-		skillEnemy=0.60;
+		precisionFriendly=0.55000001;
+		skillEnemy=0.60000002;
 		precisionEnemy=0.28;
 	};
-
 	class Veteran
 	{
 		class Flags
@@ -99,17 +97,16 @@ class Difficulties
 			ExtendetInfoType=0;
 			MineTag=0;
 		};
-		skillFriendly=0.85;
-		precisionFriendly=0.73;
-		skillEnemy=0.85;
-		precisionEnemy=0.73;
+		skillFriendly=0.85000002;
+		precisionFriendly=0.73000002;
+		skillEnemy=0.85000002;
+		precisionEnemy=0.73000002;
 	};
-
 	class Mercenary
 	{
 		class Flags
 		{
-			3rdPersonView=0;
+			3rdPersonView=1;
 			armor=0;
 			autoAim=0;
 			autoGuideAT=0;
@@ -134,11 +131,22 @@ class Difficulties
 			ExtendetInfoType=0;
 			MineTag=0;
 		};
-		skillFriendly=1.00;
-		precisionFriendly=1.00;
-		skillEnemy=0.85;
-		precisionEnemy=0.73;
+		skillFriendly=1;
+		precisionFriendly=1;
+		skillEnemy=0.85000002;
+		precisionEnemy=0.73000002;
 	};
 };
-
 difficulty="veteran";
+singleVoice=0;
+maxSamplesPlayed=96;
+sceneComplexity=1000000;
+shadowZDistance=100;
+viewDistance=3800;
+preferredObjectViewDistance=3200;
+terrainGrid=3.125;
+volumeCD=10;
+volumeFX=10;
+volumeSpeech=10;
+volumeVoN=10;
+vonRecThreshold=0.029999999;

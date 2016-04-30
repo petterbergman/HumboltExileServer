@@ -55,4 +55,23 @@
  7:28:32 BattlEye Server: Player #0 Wasbong - GUID: 39e5af44dd9fa1e1a3212b8c7b445e77 (unverified)
  7:28:32 Player Wasbong connected (id=76561197970819722).
  7:28:32 BattlEye Server: Verified GUID (39e5af44dd9fa1e1a3212b8c7b445e77) of player #0 Wasbong
- 7:28:34 BattlEye Server: Starting with Arma 3 1.58 all server admins will have to define a dedicated port in BEServer.cfg in order to be able to use BE RCon. Please see https://www.battleye.com/support/documentation/ for 
+ 7:28:34 BattlEye Server: Starting with Arma 3 1.58 all server admins will have to define a dedicated port in BEServer.cfg in order to be able to use BE RCon. Please see https://www.battleye.com/support/documentation/ for details.
+ 7:29:18 Player Wasbong disconnected.
+ 7:29:18 BattlEye Server: Player #0 Wasbong disconnected
+ 7:46:37 Viking uses modified data file
+ 7:46:37 BattlEye Server: Player #0 Viking (24.5.16.33:34576) connected
+ 7:46:37 Player Viking connecting.
+ 7:46:39 BattlEye Server: Player #0 Viking - GUID: 28b91040df21311f81b27573506fb0ce (unverified)
+ 7:46:39 Player Viking connected (id=76561197972698790).
+ 7:46:39 BattlEye Server: Verified GUID (28b91040df21311f81b27573506fb0ce) of player #0 Viking
+ 7:57:42 Player Viking disconnected.
+ 7:57:42 BattlEye Server: Player #0 Viking disconnected
+ 9:51:09 Viking uses modified data file
+ 9:51:09 BattlEye Server: Player #0 Viking (24.5.16.33:32907) connected
+ 9:51:09 Player Viking connecting.
+ 9:51:11 BattlEye Server: Player #0 Viking - GUID: 28b91040df21311f81b27573506fb0ce (unverified)
+ 9:51:12 Player Viking connected (id=76561197972698790).
+ 9:51:12 BattlEye Server: Verified GUID (28b91040df21311f81b27573506fb0ce) of player #0 Viking
+ 9:51:13 BattlEye Server: Starting with Arma 3 1.58 all server admins will have to define a dedicated port in BEServer.cfg in order to be able to use BE RCon. Please see https://www.battleye.com/support/documentation/ for details.
+ 9:51:21 Player Viking disconnected.
+ 9:51:21 BattlEye Server: Player #0 Viking disconnected
