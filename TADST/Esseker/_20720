@@ -1,0 +1,29 @@
+﻿14:42:43 BattlEye Server: Initialized (v1.212)
+14:42:43 Host identity created.
+14:42:43 Game Port: 2302, Steam Query Port: 2303
+14:42:43 Mission Exile.Esseker read from directory.
+14:42:43 Roles assigned.
+14:42:43 Reading mission ...
+14:42:48 Mission read.
+14:42:48 Game started.
+16:23:24 Wasbong uses modified data file
+16:23:24 BattlEye Server: Player #0 Wasbong (73.189.9.234:55290) connected
+16:23:24 Player Wasbong connecting.
+16:23:26 BattlEye Server: Player #0 Wasbong - GUID: 39e5af44dd9fa1e1a3212b8c7b445e77 (unverified)
+16:23:26 Player Wasbong connected (id=76561197970819722).
+16:23:26 BattlEye Server: Verified GUID (39e5af44dd9fa1e1a3212b8c7b445e77) of player #0 Wasbong
+16:23:30 BattlEye Server: Starting with Arma 3 1.58 all server admins will have to define a dedicated port in BEServer.cfg in order to be able to use BE RCon. Please see https://www.battleye.com/support/documentation/ for details.
+16:54:44 Player Wasbong disconnected.
+16:54:44 BattlEye Server: Player #0 Wasbong disconnected
+16:55:14 Viking uses modified data file
+16:55:14 BattlEye Server: Player #0 Viking (24.5.16.33:38748) connected
+16:55:14 Player Viking connecting.
+16:55:37 Player Viking disconnected.
+16:55:37 BattlEye Server: Player #0 Viking disconnected
+16:55:49 Viking uses modified data file
+16:55:49 BattlEye Server: Player #0 Viking (24.5.16.33:38748) connected
+16:55:49 Player Viking connecting.
+16:55:51 BattlEye Server: Player #0 Viking - GUID: 28b91040df21311f81b27573506fb0ce (unverified)
+16:55:51 Player Viking connected (id=76561197972698790).
+16:55:51 BattlEye Server: Verified GUID (28b91040df21311f81b27573506fb0ce) of player #0 Viking
+16:59:46 Voted admin logged in, player: Viking, playerUID: 76561197972698790, IP: 192.168.1.25:2304.

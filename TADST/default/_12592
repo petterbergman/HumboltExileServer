@@ -1,0 +1,63 @@
+﻿16:50:52 BattlEye Server: Initialized (v1.210)
+16:50:52 Host identity created.
+16:50:53 Game Port: 2302, Steam Query Port: 2303
+16:50:53 Mission Exile.Altis read from bank.
+16:50:53 Roles assigned.
+16:50:53 Reading mission ...
+16:51:01 Mission read.
+16:51:02 Game started.
+16:52:08 Viking uses modified data file
+16:52:08 BattlEye Server: Player #0 Viking (192.168.1.25:2304) connected
+16:52:08 Player Viking connecting.
+16:52:10 BattlEye Server: Player #0 Viking - GUID: 28b91040df21311f81b27573506fb0ce (unverified)
+16:52:11 Player Viking connected (id=76561197972698790).
+16:52:11 BattlEye Server: Verified GUID (28b91040df21311f81b27573506fb0ce) of player #0 Viking
+16:52:15 BattlEye Server: Starting with Arma 3 1.58 all server admins will have to define a dedicated port (and IP, if desired) in BEServer.cfg in order to be able to use BE RCon. New settings "RConIP" and "RConPort" will be available for this purpose in BE Server v1.209.
+16:55:21 Player Viking disconnected.
+16:55:21 BattlEye Server: Player #0 Viking disconnected
+17:06:05 Viking uses modified data file
+17:06:05 BattlEye Server: Player #0 Viking (73.189.9.234:56492) connected
+17:06:05 Player Viking connecting.
+17:06:06 BattlEye Server: Player #0 Viking - GUID: 28b91040df21311f81b27573506fb0ce (unverified)
+17:06:07 Player Viking connected (id=76561197972698790).
+17:06:07 BattlEye Server: Verified GUID (28b91040df21311f81b27573506fb0ce) of player #0 Viking
+17:06:52 Player Viking disconnected.
+17:06:52 BattlEye Server: Player #0 Viking disconnected
+17:08:23 Viking uses modified data file
+17:08:23 BattlEye Server: Player #0 Viking (73.189.9.234:56492) connected
+17:08:23 Player Viking connecting.
+17:08:24 BattlEye Server: Player #0 Viking - GUID: 28b91040df21311f81b27573506fb0ce (unverified)
+17:08:25 Player Viking connected (id=76561197972698790).
+17:08:25 BattlEye Server: Verified GUID (28b91040df21311f81b27573506fb0ce) of player #0 Viking
+17:08:44 BattlEye Server: Could not connect to BE Master
+17:08:44 BattlEye Server: Update attempt failed
+17:12:13 Player Viking disconnected.
+17:12:13 BattlEye Server: Player #0 Viking disconnected
+17:33:09 Xaud uses modified data file
+17:33:09 BattlEye Server: Player #0 Xaud (50.185.119.17:2304) connected
+17:33:09 Player Xaud connecting.
+17:33:11 BattlEye Server: Player #0 Xaud - GUID: eee716f3226a01c570dc8ff261673d94 (unverified)
+17:33:11 Player Xaud connected (id=76561198073561231).
+17:33:11 BattlEye Server: Verified GUID (eee716f3226a01c570dc8ff261673d94) of player #0 Xaud
+17:34:29 S1 uses modified data file
+17:34:29 BattlEye Server: Player #1 S1 (73.189.9.234:2316) connected
+17:34:29 Player S1 connecting.
+17:34:31 BattlEye Server: Player #1 S1 - GUID: 38a425f4a8143ad3817806583f3bd36a (unverified)
+17:34:31 Player S1 connected (id=76561198289864336).
+17:34:31 BattlEye Server: Verified GUID (38a425f4a8143ad3817806583f3bd36a) of player #1 S1
+17:35:45 Viking uses modified data file
+17:35:45 BattlEye Server: Player #2 Viking (192.168.1.25:2304) connected
+17:35:45 Player Viking connecting.
+17:35:46 BattlEye Server: Player #2 Viking - GUID: 28b91040df21311f81b27573506fb0ce (unverified)
+17:35:47 Player Viking connected (id=76561197972698790).
+17:35:47 BattlEye Server: Verified GUID (28b91040df21311f81b27573506fb0ce) of player #2 Viking
+17:36:24 WAR RIG uses modified data file
+17:36:24 BattlEye Server: Player #3 WAR RIG (97.94.137.19:2304) connected
+17:36:24 Player WAR RIG connecting.
+17:36:26 BattlEye Server: Player #3 WAR RIG - GUID: 432d11be4b054b800810ba6496f5f66d (unverified)
+17:36:26 Player WAR RIG connected (id=76561198129232876).
+17:36:26 BattlEye Server: Verified GUID (432d11be4b054b800810ba6496f5f66d) of player #3 WAR RIG
+17:36:34 Player WAR RIG disconnected.
+17:36:34 BattlEye Server: Player #3 WAR RIG disconnected
+17:37:27 Player S1 disconnected.
+17:37:27 BattlEye Server: Player #1 S1 disconnected

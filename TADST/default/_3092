@@ -1,0 +1,70 @@
+﻿18:37:41 BattlEye Server: Initialized (v1.210)
+18:37:41 Host identity created.
+18:37:42 Game Port: 2302, Steam Query Port: 2303
+18:37:42 Mission Exile.Altis read from bank.
+18:37:42 Roles assigned.
+18:37:42 Reading mission ...
+18:37:50 Mission read.
+18:37:50 Game started.
+19:39:28 Chicho Garcia uses modified data file
+19:39:28 BattlEye Server: Player #0 Chicho Garcia (186.0.177.142:14936) connected
+19:39:28 Player Chicho Garcia connecting.
+19:39:31 BattlEye Server: Starting with Arma 3 1.58 all server admins will have to define a dedicated port (and IP, if desired) in BEServer.cfg in order to be able to use BE RCon. New settings "RConIP" and "RConPort" will be available for this purpose in BE Server v1.209.
+19:39:32 BattlEye Server: Player #0 Chicho Garcia - GUID: b3948212361aa04f279fce33be338612 (unverified)
+19:39:32 Player Chicho Garcia connected (id=76561198280808640).
+19:39:32 BattlEye Server: Verified GUID (b3948212361aa04f279fce33be338612) of player #0 Chicho Garcia
+19:48:45 Player Chicho Garcia is losing connection
+19:49:06 Player Chicho Garcia kicked off by BattlEye: Client not responding
+19:49:06 Player Chicho Garcia disconnected.
+ 3:06:27 Xaud uses modified data file
+ 3:06:27 BattlEye Server: Player #0 Xaud (50.185.119.17:2314) connected
+ 3:06:27 Player Xaud connecting.
+ 3:06:29 BattlEye Server: Player #0 Xaud - GUID: eee716f3226a01c570dc8ff261673d94 (unverified)
+ 3:06:29 Player Xaud connected (id=76561198073561231).
+ 3:06:29 BattlEye Server: Verified GUID (eee716f3226a01c570dc8ff261673d94) of player #0 Xaud
+ 3:06:30 BattlEye Server: Starting with Arma 3 1.58 all server admins will have to define a dedicated port (and IP, if desired) in BEServer.cfg in order to be able to use BE RCon. New settings "RConIP" and "RConPort" will be available for this purpose in BE Server v1.209.
+ 3:07:09 Player Xaud disconnected.
+ 3:07:09 BattlEye Server: Player #0 Xaud disconnected
+12:24:25 KillBill uses modified data file
+12:24:25 BattlEye Server: Player #0 KillBill (136.169.127.96:2304) connected
+12:24:25 Player KillBill connecting.
+12:24:27 BattlEye Server: Player #0 KillBill - GUID: 2487c3e5b4b7f62dd9626b369ae30591 (unverified)
+12:24:28 Player KillBill connected (id=76561198255136411).
+12:24:28 BattlEye Server: Verified GUID (2487c3e5b4b7f62dd9626b369ae30591) of player #0 KillBill
+12:24:28 BattlEye Server: Starting with Arma 3 1.58 all server admins will have to define a dedicated port (and IP, if desired) in BEServer.cfg in order to be able to use BE RCon. New settings "RConIP" and "RConPort" will be available for this purpose in BE Server v1.209.
+12:30:41 Player KillBill disconnected.
+12:30:41 BattlEye Server: Player #0 KillBill disconnected
+13:27:12 KillBill uses modified data file
+13:27:12 BattlEye Server: Player #0 KillBill (136.169.127.96:2304) connected
+13:27:12 Player KillBill connecting.
+13:27:14 BattlEye Server: Player #0 KillBill - GUID: 2487c3e5b4b7f62dd9626b369ae30591 (unverified)
+13:27:14 BattlEye Server: Starting with Arma 3 1.58 all server admins will have to define a dedicated port (and IP, if desired) in BEServer.cfg in order to be able to use BE RCon. New settings "RConIP" and "RConPort" will be available for this purpose in BE Server v1.209.
+13:27:14 Player KillBill connected (id=76561198255136411).
+13:27:14 BattlEye Server: Verified GUID (2487c3e5b4b7f62dd9626b369ae30591) of player #0 KillBill
+13:40:34 Player KillBill disconnected.
+13:40:34 BattlEye Server: Player #0 KillBill disconnected
+ 9:51:09 Wasbong uses modified data file
+ 9:51:09 BattlEye Server: Player #0 Wasbong (73.189.9.234:61486) connected
+ 9:51:09 Player Wasbong connecting.
+ 9:51:11 BattlEye Server: Player #0 Wasbong - GUID: 39e5af44dd9fa1e1a3212b8c7b445e77 (unverified)
+ 9:51:11 Player Wasbong connected (id=76561197970819722).
+ 9:51:11 BattlEye Server: Verified GUID (39e5af44dd9fa1e1a3212b8c7b445e77) of player #0 Wasbong
+ 9:51:12 BattlEye Server: Starting with Arma 3 1.58 all server admins will have to define a dedicated port (and IP, if desired) in BEServer.cfg in order to be able to use BE RCon. New settings "RConIP" and "RConPort" will be available for this purpose in BE Server v1.209.
+ 9:52:08 Player Wasbong disconnected.
+ 9:52:08 BattlEye Server: Player #0 Wasbong disconnected
+ 9:52:48 Wasbong uses modified data file
+ 9:52:48 BattlEye Server: Player #0 Wasbong (73.189.9.234:61486) connected
+ 9:52:48 Player Wasbong connecting.
+ 9:52:50 BattlEye Server: Player #0 Wasbong - GUID: 39e5af44dd9fa1e1a3212b8c7b445e77 (unverified)
+ 9:52:50 Player Wasbong connected (id=76561197970819722).
+ 9:52:50 BattlEye Server: Verified GUID (39e5af44dd9fa1e1a3212b8c7b445e77) of player #0 Wasbong
+10:06:41 Player Wasbong disconnected.
+10:06:41 BattlEye Server: Player #0 Wasbong disconnected
+10:13:39 Wasbong uses modified data file
+10:13:39 BattlEye Server: Player #0 Wasbong (73.189.9.234:61502) connected
+10:13:39 Player Wasbong connecting.
+10:13:41 BattlEye Server: Player #0 Wasbong - GUID: 39e5af44dd9fa1e1a3212b8c7b445e77 (unverified)
+10:13:42 Player Wasbong connected (id=76561197970819722).
+10:13:42 BattlEye Server: Verified GUID (39e5af44dd9fa1e1a3212b8c7b445e77) of player #0 Wasbong
+10:18:13 Player Wasbong disconnected.
+10:18:13 BattlEye Server: Player #0 Wasbong disconnected

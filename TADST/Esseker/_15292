@@ -1,0 +1,17 @@
+﻿10:44:23 BattlEye Server: Initialized (v1.210)
+10:44:23 Host identity created.
+10:44:23 Game Port: 2302, Steam Query Port: 2303
+10:44:24 Mission Exile.Esseker read from bank.
+10:44:24 Roles assigned.
+10:44:24 Reading mission ...
+10:44:26 Mission read.
+10:44:26 Game started.
+11:00:55 Wasbong uses modified data file
+11:00:55 BattlEye Server: Player #0 Wasbong (73.189.9.234:61534) connected
+11:00:55 Player Wasbong connecting.
+11:00:57 BattlEye Server: Player #0 Wasbong - GUID: 39e5af44dd9fa1e1a3212b8c7b445e77 (unverified)
+11:00:57 Player Wasbong connected (id=76561197970819722).
+11:00:57 BattlEye Server: Verified GUID (39e5af44dd9fa1e1a3212b8c7b445e77) of player #0 Wasbong
+11:00:58 BattlEye Server: Starting with Arma 3 1.58 all server admins will have to define a dedicated port (and IP, if desired) in BEServer.cfg in order to be able to use BE RCon. New settings "RConIP" and "RConPort" will be available for this purpose in BE Server v1.209.
+11:05:52 Player Wasbong disconnected.
+11:05:52 BattlEye Server: Player #0 Wasbong disconnected

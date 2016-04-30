@@ -1,0 +1,33 @@
+﻿13:38:53 BattlEye Server: Initialized (v1.212)
+13:38:53 Host identity created.
+13:38:53 Game Port: 2302, Steam Query Port: 2303
+13:38:53 Mission Exile.Esseker read from directory.
+13:38:54 Roles assigned.
+13:38:54 Reading mission ...
+13:38:58 Mission read.
+13:38:58 Game started.
+13:39:49 Wasbong uses modified data file
+13:39:49 BattlEye Server: Player #0 Wasbong (73.189.9.234:55302) connected
+13:39:49 Player Wasbong connecting.
+13:39:52 BattlEye Server: Player #0 Wasbong - GUID: 39e5af44dd9fa1e1a3212b8c7b445e77 (unverified)
+13:39:52 Player Wasbong connected (id=76561197970819722).
+13:39:52 BattlEye Server: Verified GUID (39e5af44dd9fa1e1a3212b8c7b445e77) of player #0 Wasbong
+13:39:53 BattlEye Server: Starting with Arma 3 1.58 all server admins will have to define a dedicated port in BEServer.cfg in order to be able to use BE RCon. Please see https://www.battleye.com/support/documentation/ for details.
+13:40:04 Player Wasbong disconnected.
+13:40:04 BattlEye Server: Player #0 Wasbong disconnected
+13:40:44 Wasbong uses modified data file
+13:40:44 BattlEye Server: Player #0 Wasbong (73.189.9.234:55302) connected
+13:40:44 Player Wasbong connecting.
+13:40:46 BattlEye Server: Player #0 Wasbong - GUID: 39e5af44dd9fa1e1a3212b8c7b445e77 (unverified)
+13:40:47 Player Wasbong connected (id=76561197970819722).
+13:40:47 BattlEye Server: Verified GUID (39e5af44dd9fa1e1a3212b8c7b445e77) of player #0 Wasbong
+13:40:51 Player Wasbong disconnected.
+13:40:51 BattlEye Server: Player #0 Wasbong disconnected
+13:43:04 Wasbong uses modified data file
+13:43:04 BattlEye Server: Player #0 Wasbong (73.189.9.234:55302) connected
+13:43:04 Player Wasbong connecting.
+13:43:06 BattlEye Server: Player #0 Wasbong - GUID: 39e5af44dd9fa1e1a3212b8c7b445e77 (unverified)
+13:43:06 Player Wasbong connected (id=76561197970819722).
+13:43:06 BattlEye Server: Verified GUID (39e5af44dd9fa1e1a3212b8c7b445e77) of player #0 Wasbong
+13:46:45 Player Wasbong disconnected.
+13:46:45 BattlEye Server: Player #0 Wasbong disconnected

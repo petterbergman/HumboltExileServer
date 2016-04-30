@@ -1,0 +1,15 @@
+﻿18:04:04 BattlEye Server: Initialized (v1.212)
+18:04:04 Host identity created.
+18:04:04 Game Port: 2302, Steam Query Port: 2303
+18:04:04 Mission EXILE Esseker - Humbolt read from directory.
+18:04:05 Roles assigned.
+18:04:05 Reading mission ...
+18:04:09 Mission read.
+18:04:09 Game started.
+18:04:18 Viking uses modified data file
+18:04:18 BattlEye Server: Player #0 Viking (24.5.16.33:44100) connected
+18:04:18 Player Viking connecting.
+18:04:20 BattlEye Server: Player #0 Viking - GUID: 28b91040df21311f81b27573506fb0ce (unverified)
+18:04:20 Player Viking connected (id=76561197972698790).
+18:04:20 BattlEye Server: Verified GUID (28b91040df21311f81b27573506fb0ce) of player #0 Viking
+18:04:21 BattlEye Server: Starting with Arma 3 1.58 all server admins will have to define a dedicated port in BEServer.cfg in order to be able to use BE RCon. Please see https://www.battleye.com/support/documentation/ for details.
