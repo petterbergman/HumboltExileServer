@@ -4832,11 +4832,11 @@ class CfgSettings
 		loadOut[] = 
 		{
 			"ItemCompass",
-			"ItemGPS",
 			"Exile_Item_XM8",
 			"ItemRadio",
-			"Exile_Item_PlasticBottleFreshWater",
-			"Exile_Item_EMRE"
+			"ItemGPS",
+			"Exile_Melee_Axe",
+			"Exile_Item_PlasticBottleFreshWater"
 		};
 
 		/**
@@ -4890,7 +4890,6 @@ class CfgSettings
 		{
 			{5, "Exile_Bike_OldBike"},
 			{5, "Exile_Bike_MountainBike"}
-			{5, "Exile_Bike_QuadBike_White"}
 		};
 	};
 
@@ -4911,8 +4910,7 @@ class CfgSettings
 		* Vehicle ammount per grid
 		* kinda self explanitory
 		*/
-		* vehiclesGridAmount = 2;
-		  vehiclesGridAmount = 4;
+		vehiclesGridAmount = 2;
 
 		/**
 		* Creates global markers for vehicle spawn tweeking,
@@ -5112,7 +5110,7 @@ class CfgSettings
 			0 = off
 			1 = on
 		*/
-		useAutoKick = 0;
+		useAutoKick = 1;
 
 		/*
 			Number of minutes before the server kicks players that did
