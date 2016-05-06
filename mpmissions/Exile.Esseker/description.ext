@@ -77,7 +77,7 @@ allowFunctionsLog = 1;
 // 0 = Default behavior, available only in editor
 // 1 = Available in SP and for hosts / logged in admins
 // 2 = Available for everyone
-enableDebugConsole = 0; // 2 = dangerous in MP
+enableDebugConsole = 2; // 2 = dangerous in MP
 
 // NO NO NO
 allowFunctionsRecompile = 0;
@@ -96,3 +96,4 @@ class RscTitles
 #include "CfgRemoteExec.hpp"
 #include "voiceControl.cpp"
 #include "R3F_LOG\desc_include.h"
+//#include "CfgLootTables.hp
