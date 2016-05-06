@@ -5,6 +5,8 @@ class Mission
 	{
 		"exile_client",
 		"esseker",
+        "A3_Characters_F_Civil",
+        "a3_characters_f",
 		"cabuildings_misc",
 		"cup_cabuildings2_misc_cargo",
 		"cup_misc_e_config",

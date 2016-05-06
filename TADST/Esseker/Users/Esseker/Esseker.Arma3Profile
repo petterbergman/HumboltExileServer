@@ -106,7 +106,7 @@ class Difficulties
 	{
 		class Flags
 		{
-			3rdPersonView=1;
+			3rdPersonView=0;
 			armor=0;
 			autoAim=0;
 			autoGuideAT=0;
@@ -137,9 +137,7 @@ class Difficulties
 		precisionEnemy=0.73000002;
 	};
 };
-difficulty="veteran";
-singleVoice=0;
-maxSamplesPlayed=96;
+difficulty="recruit";
 sceneComplexity=1000000;
 shadowZDistance=100;
 viewDistance=3800;
@@ -149,4 +147,6 @@ volumeCD=10;
 volumeFX=10;
 volumeSpeech=10;
 volumeVoN=10;
+singleVoice=0;
+maxSamplesPlayed=96;
 vonRecThreshold=0.029999999;

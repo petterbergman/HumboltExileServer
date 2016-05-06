@@ -105,7 +105,7 @@ class Difficulties
 	{
 		class Flags
 		{
-			3rdPersonView=1;
+			3rdPersonView=0;
 			armor=0;
 			autoAim=0;
 			autoGuideAT=0;
@@ -135,4 +135,4 @@ class Difficulties
 	};
 };
 
-difficulty="veteran";
+difficulty="recruit";
