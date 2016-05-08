@@ -4758,8 +4758,8 @@ class CfgSettings
 		*/
 		class Frags
 		{
-			bambi = -500;				// Bambi slayers
-			friendlyFire = -1000;		// For party members
+			bambi = -5000;				// Bambi slayers
+			friendlyFire = -2000;		// For party members
 			standard = 100;				// Normal kill
 			domination = 80;			// Keeps killing the same guy
 			letItRain = 150;			// MG, also vehicle MGs
@@ -4911,7 +4911,7 @@ class CfgSettings
 		* Vehicle ammount per grid
 		* kinda self explanitory
 		*/
-		vehiclesGridAmount = 2;
+		vehiclesGridAmount = 4;
 
 		/**
 		* Creates global markers for vehicle spawn tweeking,
@@ -5004,8 +5004,8 @@ class CfgSettings
 			Add the keyframes here. The server will pick one random, so if you want one 
 			weather type of be more dominant compared to others, add it multiple times
 		*/
-		keyframes[] = {"Sunny", "Cloudy", "Thunderstorm"}; 
-
+//		keyframes[] = {"Sunny", "Cloudy", "Thunderstorm"};
+		keyframes[] = {"Sunny"};
 		/*
 			This is a keyframe. Look up the BIKI to get more details about the parameters
 
@@ -5126,7 +5126,7 @@ class CfgSettings
 			0 = off
 			1 = on
 		*/
-		useRestartMessages = 0;
+		useRestartMessages = 1;
 
 		/*
 			Number of minutes before the restart to inform your players.
@@ -5140,7 +5140,7 @@ class CfgSettings
 			to try to shutdown the server
 		*/
 
-		useShutdown = 0;
+		useShutdown = 1;
 	};
 
 	class ServerSettings
@@ -5161,7 +5161,8 @@ class CfgSettings
 			"76561197985241690", // Eichi
 			"76561198022879703", // Grim
 			"76561197968999666", // Mr.White^ex
-			"76561198075905447"  // Vishpala
+			"76561198075905447",  // Vishpala
+			"76561197972698790" //Viking
 		};
 	};
 
