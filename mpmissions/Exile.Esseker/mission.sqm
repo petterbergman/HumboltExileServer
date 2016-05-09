@@ -691,7 +691,7 @@ class Mission
 		{
 			position[]={3883,0,15000};
 			name="Info_2";
-			text="Teamspeak: ts.sagergaming.com";
+			text="Teamspeak: ts.humboltgaming.com";
 			type="mil_dot";
 			colorName="ColorBlue";
 		};

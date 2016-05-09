@@ -84,7 +84,7 @@ player createDiarySubject ["credits", "Credits"];
 	<br/>
 	<br/>-To avoid confusion, players entering safe zones should always park away from other players and lock their vehicle.
 	<br/>
-	<br/>-TeamSpeak IP: ts.sagergaming.com
+	<br/>-TeamSpeak IP: ts.humboltgaming.com
 	<br/>
 	<br/>IMPORTANT: VEHICLES WILL FALL FROM THE AIR WHEN SIGNING IN NEAR THEM, THE SERVER WILL NOT BE RESPONSIBLE FOR LOST VEHICLES DUE TO THIS GLITCH	
 		"
