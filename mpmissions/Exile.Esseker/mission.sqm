@@ -15,8 +15,6 @@ class Mission
 		"cup_buildings_config",
 		"cup_castructures_e_misc_misc_market",
 		"cup_castructures_e_misc_misc_interier",
-		"Ryanzombies",
-		"ryanzombiesfunctions",
 		"gnt_c185",
 		"Sar_obelisk",
 		"A3_Air_F_Beta_Heli_Transport_02",
@@ -41,9 +39,7 @@ class Mission
 	addOnsAuto[]=
 	{
 		"exile_client",
-		"Ryanzombies",
-		"ryanzombiesfunctions",
-		
+
 		"esseker"
 	};
 	randomSeed=8080942;
