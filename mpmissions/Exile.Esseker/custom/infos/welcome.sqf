@@ -23,10 +23,10 @@ _posDefault         = [0.3,0.55,0.5]; // Defualt Positions of all Credits
 
 // First
 _title          = "Exile Esseker Server ";
-_shorttext      = "Custom Zombie server ";
+_shorttext      = "Humbolt Gaming";
 _posText        = [0.8,0.5,0.4];
 
-
+/*
 _title2         = "Update Weekly";
 _shorttext2     = "Active admins";
 _posText2       = [0.8,0.5,0.25];
@@ -41,10 +41,11 @@ _title4         = "You can now Donate";
 _shorttext4     = "humboltgaming.com";
 _posText4       = [0.8,0.5,0.28];
 
-
 _title5         = "Play Fair. Be Respectful";
 _shorttext5     = "And have fun!";
 _posText5       = [0.8,0.5,0.4];
+
+*/
 
 /*
 
